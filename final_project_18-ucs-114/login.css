@@ -1,0 +1,80 @@
+body {
+	background:url(product_back2.jpeg) ; 
+    background-size:1366px 768px;
+	font-family: 'Arial';  
+}
+.header {
+  width: 1334px;
+  height: 80px;    
+  text-align: center;
+  background: none;
+  color: black;
+  font-size: 20px;
+}
+.message {
+color: white;
+font-weight:bold;
+text-align:left;
+width: 100%;
+}
+.usernameErr{  
+    color:white;  
+    font-size: 17px;  
+}  
+.passwordErr{  
+    color:white;  
+    font-size: 17px;  
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+       background:linear-gradient(to bottom, #414a47 0%, #000000 75%);
+        border-radius:34px ;  
+          
+}  
+h1{  
+    text-align: center;  
+    color: black;  
+    padding: 20px;  
+}  
+label{  
+    color:white;  
+    font-size: 17px;  
+}  
+#username{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 10px;  
+    padding-left: 8px;  
+}  
+#password{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 10px;  
+    padding-left: 8px;  
+      
+}  
+#logs{  
+    width: 200px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: black;
+    font-weight:bold; 
+    font-size: 17px;
+  
+}  
+span{  
+    color: green;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: grey;  
+}  
